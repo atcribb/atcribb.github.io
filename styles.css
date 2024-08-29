@@ -185,3 +185,37 @@ h4 a:hover{
     filter: grayscale(0%);
 }
 /*end that*/
+
+
+
+/* CV boxes */
+.cv-section{
+    background-color: #fffbf7;
+    border: 2px solid #c1bdbd; 
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(102, 102, 102, 0.1);
+}
+
+.cv-section h2{
+    font-size:24px;
+    color:#D896E1;
+    font-weight:bold;
+    font-family: monospace;
+}
+
+.cv-section h3{
+    font-size:18px;
+    color:black;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.cv-section h4{
+    font-size:17px;
+    color:black;
+    text-decoration:underline;
+    font-weight:lighter;
+    font-family:monospace
+}
