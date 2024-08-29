@@ -90,6 +90,16 @@ h4 {
     text-align: justify;
 }
 
+h4 a{
+    color:darkslateblue;
+    text-decoration:none;
+}
+
+h4 a:hover{
+    color:darkslateblue;
+    text-decoration:underline;
+}
+
 
 .aboutme-pic { /* Style for picture on about me page */
     float: right; /* Float image to the right of the page  */
