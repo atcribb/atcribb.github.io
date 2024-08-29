@@ -9,6 +9,12 @@
     }
 }
 
+@media (min-width: 600px){ /*remove from desktops, only display on mobile devices*/
+    .header{ /*hide header on desktop since sidebar is visible*/
+        display: none;
+    }
+}
+
 
 
 body, html {
@@ -106,6 +112,28 @@ h4 a:hover{
     margin: 20px 0;
 }
 /*end that*/
+
+
+/*header menu for mobile devices*/
+.header{
+    background-color: #3a3c43;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    overflow: hidden; /* Prevent scrolling */
+}
+
+.header h1{
+    font-size:xx-large;
+    font-family:monospace;
+    text-align:center;
+    color: #D896E1;
+    font-weight:bold;
+}
+
+.header h2{
+    text-align: center;
+}
 
 /*create style for the links to shift to the right in the sidebar and display a ">" before them when hovered*/
 .shift-link{
