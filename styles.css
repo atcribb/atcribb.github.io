@@ -46,6 +46,12 @@ body, html {
     box-sizing: border-box;
 }
 
+.contentright{
+    width:90%;
+    text-align:right;
+    padding: 20px;
+}
+
 section {
     margin-bottom: 50px;
 }
@@ -89,7 +95,8 @@ h4 a:hover{
     padding: 20px;
     position: fixed;
     height: 100%;
-    overflow: hidden; /* Prevent scrolling */
+    overflow-y: scroll
+    /*overflow: hidden; /* Prevent scrolling */
 }
 
 .sidebar h1{
@@ -124,10 +131,9 @@ h4 a:hover{
 /*styles for mobile devices*/
 .header{
     background-color: #3a3c43;
-    padding: 20px;
-    position: fixed;
+    position:fixed;
     width: 100%;
-    height: 230px;
+    height: 250px;
     overflow: hidden; /* Prevent scrolling */
 }
 
@@ -192,7 +198,7 @@ h4 a:hover{
     border: 1px black solid;
 }
 
-/*website image links grayscale and go into color on hover*/
+/*image manipulation*/
 .website-image-link{
     filter: grayscale(100%);
     transition: filter 0.3 ease;
@@ -202,6 +208,10 @@ h4 a:hover{
 .website-image-link:hover{
     filter: grayscale(0%);
 }
+.pinkshift{ /*just working to make the adobe acrobat logo a matching pink color*/
+    filter: brightness(350%) invert(1) hue-rotate(140deg);
+}
+
 /*end that*/
 
 
