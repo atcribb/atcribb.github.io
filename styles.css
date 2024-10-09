@@ -323,3 +323,19 @@ h4 a:hover{
 .abstract-box p {
     margin: 0;
 }
+
+.textlink-btn{
+    background-color: #ffffff;
+    color: #3a3c43;
+    border: solid 1px;
+    padding: 6px 12px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    border-radius: 1.5px;
+    margin-left: 10px;
+}
+
+.textlink-btn:hover{
+    background-color: #3a3c43;
+    color: white;
+}
