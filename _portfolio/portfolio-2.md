@@ -1,6 +1,6 @@
 ---
 title: "Ecological dynamics of ancient and anthropogenic mass extinctions"
-excerpt: "Example figure from Cribb et al. (2023): <br/><img src='/images/Ecospace_cubes.png' width="500>"
+excerpt: "Example figure from Cribb et al. (2023): <br/><img src='/images/Ecospace_cubes.png' width='500'>"
 collection: portfolio
 ---
 
