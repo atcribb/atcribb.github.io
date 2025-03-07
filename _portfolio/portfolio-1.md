@@ -1,6 +1,6 @@
 ---
 title: "Evolution and effects of ecosystem engineers"
-excerpt: "<br/><img src='/images/Figure5_reefs_relativeabundance.pdf' width='500'>"
+excerpt: "Example figure from Cribb & Darroch (2024): <br/><img src='/images/Figure5_reefs_relativeabundance.pdf' width='500'>"
 collection: portfolio
 ---
 
