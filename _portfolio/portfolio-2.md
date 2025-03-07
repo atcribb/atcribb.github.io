@@ -1,7 +1,16 @@
 ---
-title: "Ecological dynamics of ancient and anthropogenic mass extinctions"
+title: "Ecological dynamics of ancient mass extinctions and the current biodiversity crisis"
 excerpt: "Example figure from Cribb et al. (2023): <br/><img src='/images/Ecospace_cubes.png' width='500'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+#### Under construction - thank you for your patience!
+
+The fossil record of mass extinctions holds key clues for us to understand the future of biodiversity collapse under different warming scenarios. In particular, the nature of ecological collapse, its drivers, and subsequent recovery is extremely useful predictive data for forecasting the future of ecosystems and their associated ecosystem services. Under this research theme, I primarily focus on the end-Triassic mass extinction (or, ETME) – the fourth of the 'Big 5' mass extinctions. The ETME was driven by rapid and massive injections of greenhouse gases into the atmosphere when Pangaea began rifting and the Central Atlantic Magmatic Province (CAMP) began erupting. This caused ocean warming, deoxygenation and acidification, while terrestrial ecosystems suffered deforestation, soil loss, wildfires, and major hydrological cycle disruptions. While the ETME was not the most devestating mass extinction, it is the only mass extinction driven by rapid global warming to impact what we often call the Modern Evolutionary Fauna - which are the cohort of marine taxaonomic groups that are still present today and have been dominant for the last ~250 million years. For example, the ETME is the only climate-driven mass extinction to impact scleractinian coral-dominated reef ecosystems; those extinction and recovery patterns are invaluable for understanding our biosphere's future.
+
+### Comparing modern and ancient global ecological collapse
+In 2023, we <a href="https://royalsocietypublishing.org/doi/full/10.1098/rspb.2023.2232">published a new framework for semi-quantitatively analysing terrestrial and marine ecological dynamics in parallel</a>, focusing on the ETME as a case study. In ongoing work at the University of Southampton, we have been applying this framework to both fossil (PBDB) and modern data (OBIS, GBIF), classifying IUCN Red List taxa in both marine and terrestrial ecosystems to characterize anthropogenic extinction signatures, and comparing them to signals from the fossil record. This has revealed exciting findings and exciting new avenues for future work. These are early results and we are excited to share more soon – please get in contact if you are interested in chatting or getting involved! 
+
+
+### Disentangling local extinction and recovery dynamics
+As the planet warms, ecosystems change heterogenously depending on a variety of physical factors, and ecology changes in response. Understanding extinction and recovery is, therefore, a fundamentally local problem. We are working on integrating Earth system model reconstructions with PBDB data to better characterise both the climate and ecological drivers of the changes that are observed across the ETME. In particular, we are interested in characterising how different regions in the Tethys and on the western margin of Pangaea experiened the ETME differently due to both oceanographic differences and the pre-extinction structure of reefs. Again, stay tuned!
