@@ -1,6 +1,6 @@
 ---
 title: "Evolution and effects of ecosystem engineers"
-excerpt: "<img src='/images/Figure5_reefs_relativeabundance.pdf' width="150">"
+excerpt: <img src='/images/Figure5_reefs_relativeabundance.pdf' width="150">
 collection: portfolio
 ---
 

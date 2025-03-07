@@ -1,6 +1,6 @@
 ---
 title: "Ecological dynamics of ancient and anthropogenic mass extinctions"
-excerpt: "<img src='/images/Figure1_Cubes_Occupied.pdf' width="150">"
+excerpt: <img src='/images/Figure1_Cubes_Occupied.pdf' width="150">
 collection: portfolio
 ---
 
