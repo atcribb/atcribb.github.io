@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-![Kimmeridge Bay by ATC](/images/kb.jpb.heic){: .align-right width="150px"}
+![Kimmeridge Bay by ATC](/images/kb.jpb.heic){: .align-right width="300px"}
 👩‍💻 🪸 I am a palaeoecologist at the University of Southampton, primarily interested in applying quantitative palaeoecology approaches to conservation palaeobiology questions.
 
 🌍 I am currently an independent 1851 Research Fellow working on a research programme that aims at understanding the impacts of ecosystem engineers on ecological and evolutionary dynamics during the Phaneroozic.
