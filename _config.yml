@@ -22,10 +22,10 @@ repository               : "atcribb/atcribb.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic"
   name             : "Dr. Alison Cribb"
   pronouns         : # example: "she/her"  
-  bio              : "Quantitative palaeoecology and conservation palaeobiology"
+  bio              : "Fossils for the future!"
   location         : "Southampton, UK"
   employer         : "University of Southampton"
   uri              : # URL

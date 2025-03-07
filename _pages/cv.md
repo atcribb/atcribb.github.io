@@ -11,54 +11,50 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2018-2023 | PhD in Geological Sciences, University of Southern California 
+* 2014-2018 | B.A. in Earth and Environmental Sciences, Vanderbilt University 
 
-Work experience
+Professional appointments
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023-2026 | 1851 Science and Engineering Research Fellow
+  * Independent research fellow
+  * School of Ocean and Earth Science, University of Southampton
   
-Skills
+Invited presentations and seminars
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2025 | University of Leeds (Upcoming)
+* 2025 | University of Bristol (Upcoming)
+* 2025 | University of Cambridge
+* 2024 | Geological Society of America: Phylogenetic and computational approaches in palaeobiology
+* 2024 | University of Oxford
+* 2022 | University of Portsmouth
+* 2022 | University of Leeds
+* 2022 | Biosphere Evolution, Transitions and Resilience (BETR): Ediacaran-Cambrian transition
+* 2022 | 6th Annual Nereis Park Conference Plenary Speaker
+* 2022 | Goldschmidt Annual Meeting: Life and the environment in the Phanerozoic
+* 2020 | NASA Jet Propulsion Laboratory Origins and Habitability Lab
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+In addition to supervision of students, this is a list of courses in which I currently or have previously taught:
+* Instructor: Earth and Ocean System, University of Southampton
+* Instructor: Palaeobiology, University of Southampton
+* Instructor: Marine Invertebrates, University of Southampton
+* Instructor: Co-evolution of Life and Earth, University of Southampton
+* Teaching assistant: The History of Life on Earth, University of Southern California
+* Teaching assistant: Climate Change, University of Southern California
+* Teaching assistant: Crises of a Planet, University of Southern California
+* Teaching assistant: Earth Systems Through Time, Vanderbilt University 
   
-Service and leadership
+
+Public Outreach and Engagement 
 ======
-* Currently signed in to 43 different slack teams
+Below is a collection of public engagement events to which I have developed, contributed, and delivered outreach exhibits:
+* Southampton Science and Engineering Festival
+* Winchester Cathedral's Whales
+* Sidmouth Science Festival
+* Southampton International Boat Show
+* Lyme Regis Fossil Festival
+* Women in Science and Engineer (WiSE) Stem Bytes at University of Southern California
+* On Point, National Public Radio (NPR)
