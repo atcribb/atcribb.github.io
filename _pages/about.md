@@ -21,4 +21,5 @@ redirect_from:
 Highlights
 ======
 [Life and Planet 2025 registration is open until 9 April!](https://lifeandplanet.com)
+
 [Check out our preprint on the effects of ecosystem engineers on Phanerozoic biodiversity](https://www.researchsquare.com/article/rs-5447601/v1)
