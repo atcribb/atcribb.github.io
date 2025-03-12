@@ -1,16 +1,27 @@
 ---
-title: "Ecological dynamics of ancient mass extinctions and the current biodiversity crisis"
-excerpt: "Example figure from Cribb et al. (2023): <br/><img src='/images/Ecospace_cubes.png' width='500'>"
+title: "Evolution and effects of ecosystem engineers"
+excerpt: "Example figure from Cribb & Darroch (2024): <br/><img src='/images/Figure5_reefs_relativeabundance.pdf' width='500'>"
 collection: portfolio
 ---
 
-#### Under construction - thank you for your patience!
+Ecosystem engineers are organisms whose activities impact resource availability in their communities, usually by changing either the physical characteristics of their environments or my modifying the flow of nutrients. These effects can often have major effects on community ecology, making ecosystem engineers one of the most important ecological groups of organisms to study for those of us interested in biotic interactions. My interest on ecosystem engineering broadly falls under two themese: their impact on long-term biodiversity dynamics, and their importance during climate catastrophes.
 
-The fossil record of mass extinctions holds key clues for us to understand the future of biodiversity collapse under different warming scenarios. In particular, the nature of ecological collapse, its drivers, and subsequent recovery is extremely useful predictive data for forecasting the future of ecosystems and their associated ecosystem services. Under this research theme, I primarily focus on the end-Triassic mass extinction (or, ETME) – the fourth of the 'Big 5' mass extinctions. The ETME was driven by rapid and massive injections of greenhouse gases into the atmosphere when Pangaea began rifting and the Central Atlantic Magmatic Province (CAMP) began erupting. This caused ocean warming, deoxygenation and acidification, while terrestrial ecosystems suffered deforestation, soil loss, wildfires, and major hydrological cycle disruptions. While the ETME was not the most devestating mass extinction, it is the only mass extinction driven by rapid global warming to impact what we often call the Modern Evolutionary Fauna - which are the cohort of marine taxaonomic groups that are still present today and have been dominant for the last ~250 million years. For example, the ETME is the only climate-driven mass extinction to impact scleractinian coral-dominated reef ecosystems; those extinction and recovery patterns are invaluable for understanding our biosphere's future.
+### Ecosystem engineers and biodiversity dynamics
+![Marine generic richness constructed over the Phanerozoic using SQS. Uncertainty ribbons are +- 1 sd of subsampling iterations](/images/Phanero_divcurve.pdf){: .align-center width="700px"}
 
-### Comparing modern and ancient global ecological collapse
-In 2023, we <a href="https://royalsocietypublishing.org/doi/full/10.1098/rspb.2023.2232">published a new framework for semi-quantitatively analysing terrestrial and marine ecological dynamics in parallel</a>, focusing on the ETME as a case study. In ongoing work at the University of Southampton, we have been applying this framework to both fossil (PBDB) and modern data (OBIS, GBIF), classifying IUCN Red List taxa in both marine and terrestrial ecosystems to characterize anthropogenic extinction signatures, and comparing them to signals from the fossil record. This has revealed exciting findings and exciting new avenues for future work. These are early results and we are excited to share more soon – please get in contact if you are interested in chatting or getting involved! 
+As palaeontologists, we often refer back to global biodiversity curves like the one above to understand macroevolution over the Phanerozoic. But what do our global biodiversity actually reflect? In essence, they are the aggregates of local biodiversity and community ecology. We are starting to understand more and more that these more local-scale processes are profoundly important for interpreting global-scale changes.
+
+Ecosystem engineers come into play in this story because of their outsized impacts on community-level ecological and biodiversity dynamics. Palaeontologists have often hypothesized, for example, that the rise of ecosystem engineers through the Phanerozoic boosted overall biodiversity. But did this actually happen, and how would we find out without being able to directly observe ecosystem engineering processes? And if ecosystem engineers have long exerted significant controls on biodiversity through time, what does this mean for how other evolutionary innovations that influence biotic interactions might shape the evolution of global biodiversity? Stay tuned...!
+
+[![Figure from our recent preprint showing the effect size of bioturbating ecosystem engineers on biodiversity](/images/Bioturbation_EffectSize_ShannonsDiversity.pdf)](https://www.researchsquare.com/article/rs-5447601/v1){: .align-center width="500px"}
 
 
-### Disentangling local extinction and recovery dynamics
-As the planet warms, ecosystems change heterogenously depending on a variety of physical factors, and ecology changes in response. Understanding extinction and recovery is, therefore, a fundamentally local problem. We are working on integrating Earth system model reconstructions with PBDB data to better characterise both the climate and ecological drivers of the changes that are observed across the ETME. In particular, we are interested in characterising how different regions in the Tethys and on the western margin of Pangaea experiened the ETME differently due to both oceanographic differences and the pre-extinction structure of reefs. Again, stay tuned!
+
+### Ecosystem engineers, climate change, and nature-based solutions
+![Preliminary results comparing changes in ecological composition of communities that do and do not contain ecosystem engineers through the end-Permian mass extinction](/images/Bray-Curtis_PalAss.pdf){: .align-right width="300px"}
+Ecosystem engineers also present an interesting avenue for climate change mitigation. Consider, for example, the reefs and sea grass that have been proposed and newly implemented to assist in coastal protection. Or, on land, the reintroduction of beavers into their historical habitats in the UK to mitigate flooding. These are examples of ecosystem engineers as powerful nature-based solutions, and these types of animals have long been hypothesized to be effective natural ways to ameliorate environmental stress for other organisms. However, long-term effectiveness of ecosystem engineers as stress mitigators is not well known, but the responses and effects of ecosystem engineers during hyperthermals and mass extinctions may hold clues! We can investigate how the ecological structure of communities that are impacted by ecosystem engineers changes through climate change intervals to start to disentangle the role of biotic interactions in promoting resilience. 
+
+
+
+### Approaches
+We use a variety of approaches to tackle these problems: spatial statistics, meta-analyses, Earth systems modelling, and more! 
