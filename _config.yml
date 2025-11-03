@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : pp2.JPG"
   name             : "Dr. Alison Cribb"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her" 
   bio              : "Fossils for the future!"
   location         : "Southampton, UK"
   employer         : "University of Southampton"
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "alison-cribb-333383363" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
