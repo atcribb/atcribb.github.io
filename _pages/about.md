@@ -20,6 +20,11 @@ redirect_from:
 
 Highlights
 ======
-[Life and Planet 2025 registration is open until 9 April!](https://lifeandplanet.com)
+
+[Join us on November 13th for the 4th Early Career Research Symposium of the International Fosil Coral and Reef Society (virtual meeting)!](https://ifcrs.org/ecrs/)
+
+[Read our new paper on 'Earth system engineering' and ecosystem engineering in deep time](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(25)00226-5)
 
 [Check out our preprint on the effects of ecosystem engineers on Phanerozoic biodiversity](https://www.researchsquare.com/article/rs-5447601/v1)
+
+[Keep an eye on Life and Planet 2026 info and check out the 2025 programme!](https://lifeandplanet.com)
