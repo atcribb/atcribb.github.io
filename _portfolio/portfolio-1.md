@@ -1,6 +1,6 @@
 ---
-title: "Fossils for the future!"
-excerpt: "Why conservation palaeobiology?: <br/><img src='/images/500x300.png' width='500'>"
+title: "Under construction! Thank you!"
+excerpt: ""
 collection: portfolio
 ---
 

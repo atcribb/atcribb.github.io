@@ -11,3 +11,17 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Ignore vendor
+vendor
+
+# Ignore macOS files
+.DS_Store
+*/.DS_Store
+
+# Ignore local instructions and agent configuration
+LOCAL_PREVIEW.md
+AGENTS.md
+
+# Local instructions for maintaining homepage content
+HOMEPAGE_CONTENT.md
