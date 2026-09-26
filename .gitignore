@@ -22,3 +22,6 @@ vendor
 # Ignore local instructions and agent configuration
 LOCAL_PREVIEW.md
 AGENTS.md
+
+# Local instructions for maintaining homepage content
+HOMEPAGE_CONTENT.md
