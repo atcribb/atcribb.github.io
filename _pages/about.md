@@ -19,22 +19,11 @@ redirect_from:
 
 [View all news →]({{ "/posts/" | relative_url }})
 
-## Selected publications
+## Recent publications
 
 {% assign selected_publications = site.publications | where: "selected", true | sort: "date" | reverse %}
-{% for publication in selected_publications %}
+{% for publication in selected_publications limit:5 %}
 - **[{{ publication.title }}]({{ publication.url | relative_url }})** — {{ publication.venue }}, {{ publication.date | date: "%Y" }}{% if publication.paperurl %} ([paper]({{ publication.paperurl }})){% endif %}
 {% endfor %}
 
 [View all publications →]({{ "/publications/" | relative_url }})
-
-
-## Highlight links
-
-[Read our new paper on the effects on bioturbators and reef-builders on biodiversity throughout the Phanerozoic](https://rdcu.be/7KQ3AKXBsJMa)
-
-[Keep an eye on Life and Planet 2027 info and check out the 2026 programme!](https://lifeandplanet.com)
-
-[Join us on November 19th for the 5th Early Career Research Symposium of the International Fosil Coral and Reef Society (virtual meeting)!](https://ifcrs.org/ecrs/)
-
-[Read our new paper on 'Earth system engineering' and ecosystem engineering in deep time](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(25)00226-5)
