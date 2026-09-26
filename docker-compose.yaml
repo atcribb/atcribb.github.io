@@ -2,7 +2,24 @@ services:
   jekyll-site:
     image: jekyll-site
     build: .
-    volumes: [.:/usr/src/app]
-    ports: [4000:4000]
-    user: 1000:1000
-    environment: [JEKYLL_ENV=docker]
+    working_dir: /usr/src/app
+    volumes:
+      - .:/usr/src/app:delegated
+      - jekyll-sass:/usr/src/app/_sass
+      - jekyll-cache:/usr/src/app/.jekyll-cache
+      - jekyll-site:/usr/src/app/_site
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    environment:
+      JEKYLL_ENV: docker
+    command: >-
+      bundle exec jekyll serve
+      --host 0.0.0.0
+      --livereload
+      --config _config.yml,_config_docker.yml
+
+volumes:
+  jekyll-cache:
+  jekyll-site:
+  jekyll-sass:
