@@ -9,8 +9,8 @@ main:
     url: /portfolio/
 
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=xxeLtmEAAAAJ
-    #url: /publications/
+    #url: https://scholar.google.com/citations?user=xxeLtmEAAAAJ
+    url: /publications/
 
   - title: "CV"
     url: /files/ATCribb_CV.pdf
